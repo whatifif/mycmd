@@ -1,0 +1,16 @@
+{
+  "name": "mycmd",
+  "version": "1.0.6",
+  "description": "To show how to make a custom command for cluster-service module",
+  "main": "myhello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "custom",
+    "command",
+    "cluster-service"
+  ],
+  "author": "whatif <whatifif@yahoo.com>",
+  "license": "ISC"
+}
